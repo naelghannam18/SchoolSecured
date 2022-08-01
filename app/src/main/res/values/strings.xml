@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SchoolSecured</string>
+    <string name="default_web_client_id_1">300408820974-t6h1t2dnbj2j9as5vimll6tpamf0kicv.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">478125033896493</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">6695dc442600e2f168d3ce2a3e46e380</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="time_array">
+        <item>7:00</item>
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+    <string name="title_activity_track_student">TrackStudentActivity</string>
+    <string name="about_us">
+        "SCHOOL SECURED" IS A SURVEILLANCE ARCHITECTURE THAT HELPS IN TRACKING STUDENT\'S LOCATIONS
+        USING AN HANDHELD IOT DEVICE.
+        THE IOT DEVICE IS EQUIPPED WITH GSM/GPS CAPABILITIES SO THAT IT CAN BROADCAST ITS COORDINATES.
+        PARENTS ARE PROVIDED WITH A MOBILE APPLICATION AND A WEB APPLICATION WHERE THEY CAN MONITOR
+        THEIR CHILDREN\'S LOCATIONS DURING SCHOOL TIME AND GET REAL-TIME NOTIFICATION IF THEY LEAVE
+        THE PREMISES.
+        IN CASE ANY OF THE STUDENTS LEAVE THE SCHOOL PREMISES DURING SCHOOL TIME, THE MOBILE APPLICATION
+        PROMPTS THE PARENTS TO EITHER CALL LOCAL AUTHORITIES, OR CALL THE MODULE ITSELF SINCE IT IS EQUIPPED
+        WITH CALLING CAPABILITES.
+    </string>
+    <string name="copyright">Copyright American University of Sciences and technologies, 2022</string>
+    <string name="seniors">Nael Ghannam - Rinad Abou Hadir</string>
+    <string name="seniors1">Martin Diab - Ahmad Tabsh</string>
+</resources>

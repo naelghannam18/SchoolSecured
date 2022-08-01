@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1675" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/drawable/ic_school_classic_building_circular_platform_lawn_to_road_pedestrian_crossing_d_effect_section_light_brick_green_roof_118973654.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/drawable/schoolmarker.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_about_page.xml" value="0.2" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_add_student.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_login_screen.xml" value="0.259375" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_open_web_app.xml" value="0.259375" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/activity_track_student.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/status_snackbar_alert.xml" value="0.264" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/status_snackbar_custom.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/layout/status_snackbar_schoolclosed.xml" value="0.259375" />
+        <entry key="..\:/Users/USER/Desktop/SchoolSecured/app/src/main/res/menu/nav_drawer_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
